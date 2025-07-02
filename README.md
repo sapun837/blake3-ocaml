@@ -26,3 +26,4 @@ ocamlopt -o my_blake3_program blake3_mix.cmx blake3_compress.cmx blake3_constant
 5. This will create an executable called my_blake3_program that you can run by typing ./my_blake3_program in the terminal.
 
 Please note that these instructions are provided as a general guideline and may vary depending on your specific system and OCaml installation. Consult the OCaml documentation for more detailed information.
+add one point good airdrop
